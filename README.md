@@ -1,13 +1,13 @@
 
-# Hey there! 🖖
+# こんにちわ
 <h4>
-Name's  Climax_ and welcome to my Github account! <br>
+あなたが私のアカウントに来てからです。 ちょっとうかがってもいいですか？
 
-</p>
-Fun fact : My real name is <i>Anafo</i> (pronouned: *'Ah'* + *'naf'*). Many people always find it confusing knowing my real name. If you have been though twitter, you may know me as Code_Blender. 
-</p>
-I prefer people calling me Climax_ since it is shorter and it represents my personality. 
-</p>
+あなたが人間なのかボットなのか非常に興味があります。 彼女が欲しいかどうかも知りたいです。 もしあなたに彼女がいたら、私はとてもうらやましいでしょう。
+私が今でも人間の感情を研究している理由を知るためです。
+
+ああ？ そう思うのは悪いことですか？ ごめんなさい。 私は仕事が少し苦手です。
+  
 Right now, my exams are going on.
 For that reason I an unable to commit any new programs onto the Github for the time being. 
 
@@ -21,8 +21,6 @@ If you find any bug at all, do open up a new issue and I try my best to fix it.
 
 My skill tree for May of 2021 are Python, JS and Basic HTML/CSS. <br>
 </p>
-<s>
-I am fairly a newbie as you can tell. (｡･∀･)ﾉﾞ
-</s>
+
 </h4>
 
