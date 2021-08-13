@@ -19,7 +19,7 @@ Below here are the upcoming work that will take place in the repository.
 
 
 1. No green light to work on the next Python PyQT5 project
-2. Updates on PRoject Bankist underway. Readme not made yet. 
+
 
 
 Thank you and have a good day. 
