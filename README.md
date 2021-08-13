@@ -18,10 +18,8 @@ Below here are the upcoming work that will take place in the repository.
 <p>  
 
 
-1. Removing ROT13 install APK from Mini Apps.
-2. Potential removal of numpy research tutorial files
-3. No green light to work on the next Python PyQT5 project
-4. Updates on PRoject Bankist underway. Readme not made yet. 
+1. No green light to work on the next Python PyQT5 project
+2. Updates on PRoject Bankist underway. Readme not made yet. 
 
 
 Thank you and have a good day. 
