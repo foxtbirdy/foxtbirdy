@@ -18,7 +18,7 @@ Below here are the upcoming work that will take place in the repository.
 <p>  
 
 
-1. Green light to work on the next Python PyQT5 project APPROVED!
+1. Green light to work on the next Python PyQT5 project APPROVED! [Development date unknown]
 
 
 
