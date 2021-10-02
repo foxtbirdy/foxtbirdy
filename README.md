@@ -10,20 +10,6 @@ I post my #100daysofCode on my Twitter so be sure to check it out.
 If you find any bug at all, do open up a new issue and I try my best to fix it.
 
 
-Oh yeah I forgot. I got a conflicting and a very awkward personality that changes every 24 hours. I'm just saying that out of curiousity. 
-
-  
-Below here are the upcoming work that will take place in the repository. 
-<h3>Upcoming Events</h3>
-<p>  
-
-
-1. Green light to work on the next Python PyQT5 project APPROVED! [Development date unknown]
-
-
-
-Thank you and have a good day. 
-</p>
 
 </h4>
 
