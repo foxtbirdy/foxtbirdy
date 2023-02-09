@@ -15,38 +15,38 @@
 <div align="center">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Code-Blender-7&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=Code-Blender-7&show_icons=true&theme=radical&border_color=ff0000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Code-Blender-7&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Code-Blender-7&show_icons=true&theme=swift&border_color=000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-Blender-7&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-Blender-7&show_icons=true&theme=swift&border_color=000000"/>
   </picture>
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Blender-7&layout=compact&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Blender-7&layout=compact&theme=radical&border_color=ff0000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Blender-7&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Blender-7&layout=compact&theme=swift&border_color=000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Blender-7&layout=compact"  width=413/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Blender-7&layout=compact&theme=swift&border_color=000000"  width=413/>
   </picture>
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Climax_&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Climax_&theme=radical&layout=compact&border_color=ff0000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Climax_"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Climax_&theme=swift&layout=compact&border_color=000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Climax_" width="440" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Climax_&theme=swift&layout=compact&border_color=000000" width="440" />
   </picture>
 </div>
 &nbsp;
