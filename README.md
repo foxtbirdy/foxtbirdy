@@ -62,8 +62,10 @@
 
 <div>
 <h2><b>📄 About Me:</b></h2>
-<p> I am a fresh year college student and I had been doing programming since 2019. I am currently working with Python and JavaScript Programming Languages. </p>
-<p>I work with small python projects but my aim is to be a Application Developer while able to create Online Applications. I also have plans to work with Data Analytics and M.L</p>
+<p> I am a college student and I had been doing programming since 2019. I am currently working with Python and JavaScript languages. </p>
+<p>I work in a range of technologies that are mostly open source based. I also prefer doing python projects mostly.</p>
+
+<p>Since I am a gamer, I also try to contribute to mod development and plugins as well 🎮.</p>
 </div>
 &nbsp;
 
@@ -78,7 +80,7 @@
 &nbsp;
 <div class="certificate">
   <h2><b>🌟 Certificates</b></h2>
-  <p>This are the certificates that I achieved over my time learning code. </br>You may find allifiated projects linked to these.</p>
+  <p>This are the certificates that I achieved over my time when I was learning how to code. </br>You may find allifiated projects linked to these.</p>
   <details>
     <summary>
       <b>Click to expand:</b>
