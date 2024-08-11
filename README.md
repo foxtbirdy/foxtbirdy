@@ -1,11 +1,11 @@
 
 <div class="entry" align="center">
-  <img src="https://github.com/Code-Blender-7/assets/blob/main/Code-Blender-7/waving_hand_sign_1024.gif?raw=true" width=70>
+  <img src="https://github.com/foxtbirdy/assets/blob/main/foxtbirdy/waving_hand_sign_1024.gif?raw=true" width=70>
   <h1>Hi there, I'm FoxtBird!</br>Welcome to my <i>GitHub</i> Page</h1>
 </div>
 
 <div class="header-content" align=center>
-  <img src="https://komarev.com/ghpvc/?username=Code-Blender-7&style=for-the-badge&color=blueviolet">
+  <img src="https://komarev.com/ghpvc/?username=foxtbirdy&style=for-the-badge&color=blueviolet">
   <a href="https://wakatime.com/@Climax_"><img src="https://wakatime.com/badge/user/34b1e2ae-391a-48f8-9cf7-97c20295d7c6.svg?style=for-the-badge" alt="Total time coded since Oct 9 2020" /></a>
   <a href="https://www.twitter.com/@Black_2_white" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -20,26 +20,26 @@
 <div align="center">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Code-Blender-7&show_icons=true&theme=radical&text_color=ffffff&border_color=800080&custom_title=GitHub+Stats"
+    srcset="https://github-readme-stats.vercel.app/api?username=foxtbirdy&show_icons=true&theme=radical&text_color=ffffff&border_color=800080&custom_title=GitHub+Stats"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Code-Blender-7&show_icons=true&theme=swift&border_color=000000&custom_title=GitHub+Stats"
+    srcset="https://github-readme-stats.vercel.app/api?username=foxtbirdy&show_icons=true&theme=swift&border_color=000000&custom_title=GitHub+Stats"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-Blender-7&show_icons=true&theme=swift&border_color=000000&custom_title=GitHub+Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=foxtbirdy&show_icons=true&theme=swift&border_color=000000&custom_title=GitHub+Stats"/>
   </picture>
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Blender-7&layout=compact&theme=radical&text_color=ffffff&border_color=800080&custom_title=Most+Active+Languages"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=foxtbirdy&layout=compact&theme=radical&text_color=ffffff&border_color=800080&custom_title=Most+Active+Languages"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Blender-7&layout=compact&theme=swift&border_color=000000&custom_title=Most+Active+Languages"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=foxtbirdy&layout=compact&theme=swift&border_color=000000&custom_title=Most+Active+Languages"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Blender-7&layout=compact&theme=swift&border_color=000000&custom_title=Most+Active+Languages"  width=413/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxtbirdy&layout=compact&theme=swift&border_color=000000&custom_title=Most+Active+Languages"  width=413/>
   </picture>
 
   <picture>
@@ -88,7 +88,7 @@
   <div class="certificate-holder" align="center">
         &nbsp;
         <p><i>JavaScript Certificate. Thank you Jonas for being my instructor/teacher since the start of my javaScript adventure</p></i>
-        <img src="https://github.com/Code-Blender-7/assets/blob/main/Code-Blender-7/certificates/Udemy%20Complete%20JavaScript%20Course%20Zero%20to%20Hero.jpg?raw=true" width="650""/>
+        <img src="https://github.com/foxtbirdy/assets/blob/main/foxtbirdy/certificates/Udemy%20Complete%20JavaScript%20Course%20Zero%20to%20Hero.jpg?raw=true" width="650""/>
   </div>
   </details>
 </div>
