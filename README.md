@@ -1,13 +1,12 @@
 
 <div class="entry" align="center">
-  <p style="font-size: 30px;"><img src="https://github.com/foxtbirdy/assets/blob/main/foxtbirdy/waving_hand_sign_1024.gif?raw=true" width=27>
-  Hi, I'm FoxtBird!</p>
+  <h2><img src="https://github.com/foxtbirdy/assets/blob/main/foxtbirdy/waving_hand_sign_1024.gif?raw=true" width=27>
+  Hi, I'm FoxtBird!</h2>
 </div>
 
----
+
 
 <div class="header-content" align=center>
-  <img src="https://komarev.com/ghpvc/?username=foxtbirdy&style=for-the-badge&color=blueviolet">
   <a href="https://wakatime.com/@Climax_"><img src="https://wakatime.com/badge/user/34b1e2ae-391a-48f8-9cf7-97c20295d7c6.svg?style=for-the-badge" alt="Total time coded since Oct 9 2020" /></a>
 
 </div>
@@ -40,7 +39,7 @@ I love anime and been a huge fan of several shows.
   <div class="certificate-holder">
         &nbsp;
         <p><i>JavaScript Certificate. Thank you Jonas for being my instructor/teacher since the start of my javaScript adventure</p></i>
-        <img src="https://github.com/foxtbirdy/assets/blob/main/foxtbirdy/certificates/Udemy%20Complete%20JavaScript%20Course%20Zero%20to%20Hero.jpg?raw=true" width="650" align="left">
+        <img src="https://github.com/foxtbirdy/assets/blob/main/foxtbirdy/certificates/Udemy%20Complete%20JavaScript%20Course%20Zero%20to%20Hero.jpg?raw=true" width="650" align="center">
   </div>
   </details>
 </div>
